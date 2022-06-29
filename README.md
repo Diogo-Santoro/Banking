@@ -1,2 +1,2 @@
 # Banking
-A simple bank system made in Java
+A simple bank system made in Java.
